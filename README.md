@@ -11,3 +11,6 @@ https://github.com/Mineong/Python_homework
 
 ## 미니프로젝트1
 https://github.com/rookies-01-team-12
+
+## 📅 Week 2: 백엔드 (spring)
+https://github.com/Mineong/spring-backend
